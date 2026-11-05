@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 144" width="768" height="576" shape-rendering="crispEdges" role="img" aria-labelledby="title desc">
+<title id="title">Bootcat working</title><desc id="desc">A determined pixel cat in enormous orange work boots repairs a server with a hammer. A seamless maintenance animation.</desc>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
+<defs>
+<g id="scene">
+<!-- floor and toolbox -->
+<path fill="#e9c9a0" opacity=".35" d="M28 126h143v3H28z"/>
+<path fill="#442b29" d="M24 111h24v15H24zM30 107h12v4h-4v-1h-4v1h-4z"/><path fill="#e9652c" d="M26 113h20v10H26z"/><path fill="#ffce63" d="M34 115h4v5h-4z"/>
+<!-- server -->
+<path fill="#382d32" d="M125 66h39v60h-39z"/><path fill="#605056" d="M129 70h31v48h-31z"/><path fill="#211f28" d="M132 74h25v11h-25zM132 89h25v11h-25zM132 104h25v10h-25z"/>
+<path fill="#d8bba4" d="M136 78h12v2h-12zM136 93h12v2h-12zM136 108h12v2h-12z"/>
+<path fill="#ffb83f" d="M152 78h3v3h-3zM152 93h3v3h-3z"><animate attributeName="opacity" values="1;1;.2;1;.2;1" dur="1.6s" repeatCount="indefinite"/></path><path fill="#99b988" d="M152 108h3v3h-3z"/>
+<!-- cable -->
+<path d="M163 115h8v15h-55v-3" fill="none" stroke="#443039" stroke-width="3"/>
+<!-- tail -->
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0;0 1;0 0" dur="1.6s" calcMode="discrete" repeatCount="indefinite"/>
+<path fill="#452c29" d="M66 93H53V81h-7v16h7v5h17z"/><path fill="#ee793a" d="M65 95H55V83h-6v12h6v5h10z"/></g>
+<!-- boots deliberately enormous -->
+<path fill="#43292a" d="M63 104h20v10h3v12H51v-12h12zM87 104h20v9h12v5h4v8H87z"/>
+<path fill="#e95b25" d="M65 107h15v10h3v5H54v-6h11zM90 107h14v9h13v4h3v2H90z"/>
+<path fill="#ffad45" d="M65 107h15v5H65zM90 107h14v5H90zM56 116h9v3h-9zM106 116h9v3h-9z"/>
+<path fill="#2f252b" d="M51 123h35v4H51zM87 123h36v4H87z"/><path fill="#ffc45a" d="M70 114h8v2h-8zM94 114h8v2h-8z"/>
+<!-- body -->
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 2;0 0;0 0" dur="1.6s" calcMode="discrete" repeatCount="indefinite"/>
+<path fill="#442b29" d="M67 76h34v7h6v25H63V85h4z"/><path fill="#ef813e" d="M69 79h29v7h5v18H67V86h2z"/>
+<path fill="#f7ba6c" d="M76 82h18v17H76z"/>
+<path fill="#575054" d="M68 89h8v8h17v-8h8v17H67z"/><path fill="#e3d0ae" d="M72 94h3v3h-3zM94 94h3v3h-3z"/>
+<!-- head and pointed ears -->
+<path fill="#442b29" d="M62 43h9v5h5v5h17v-5h6v-5h8v34h-5v7H69v-5h-7z"/>
+<path fill="#f18b46" d="M66 48h3v6h8v3h16v-3h9v-6h2v26h-5v7H72v-5h-6z"/>
+<path fill="#c85836" d="M67 51h3v8h-3zM100 51h3v8h-3z"/>
+<path fill="#ffd18a" d="M78 71h18v8H78z"/>
+<path fill="#30272c" d="M74 64h4v6h-4zM94 64h4v6h-4zM85 72h5v3h-5zM87 75h2v3h-2z"/>
+<path fill="#fff0c8" d="M75 64h1v2h-1zM95 64h1v2h-1z"/>
+<path fill="#bd5939" d="M67 72h8v2h-8zM98 72h8v2h-8zM80 57h4v5h-4zM86 57h4v5h-4z"/>
+<!-- little hard hat -->
+<path fill="#49302a" d="M70 41h6v-5h20v5h6v10H66v-5h4z"/><path fill="#ffbc42" d="M73 42h6v-4h14v4h6v5H73z"/><path fill="#ffdd7b" d="M82 38h6v9h-6z"/><path fill="#ec7930" d="M68 48h35v4H68z"/>
+<!-- left paw -->
+<path fill="#442b29" d="M63 85h8v13h-9v-4h-3v-5h4z"/><path fill="#f3a255" d="M64 87h5v8h-5z"/>
+<!-- hammer arm -->
+<g><animateTransform attributeName="transform" type="rotate" values="-36 101 87;-36 101 87;22 101 87;22 101 87;-36 101 87" keyTimes="0;.38;.48;.62;1" dur="1.6s" calcMode="discrete" repeatCount="indefinite"/>
+<path fill="#442b29" d="M97 84h13v-7h8v14h-8v4H98z"/><path fill="#f5a45a" d="M101 86h12v-6h3v9h-8v3h-7z"/>
+<path fill="#6c3c2b" d="M113 58h5v28h-5z"/><path fill="#c39464" d="M114 59h2v22h-2z"/>
+<path fill="#302a30" d="M103 51h25v12h-25z"/><path fill="#a49a92" d="M105 53h21v7h-21z"/><path fill="#e4d9c0" d="M105 53h21v2h-21z"/>
+</g></g>
+<!-- tiny impact pixels -->
+<g fill="#ffa83e" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.47;.48;.68;1" calcMode="discrete" dur="1.6s" repeatCount="indefinite"/><path d="M121 58h3v5h-3zM130 54h3v4h-3zM133 62h5v3h-5z"/></g>
+<!-- idle drifting pixel -->
+<path fill="#e89748" opacity=".5" d="M44 54h3v3h-3zM115 35h2v2h-2z"/>
+</g></defs>
+<g class="motion"><use href="#scene"/></g><g class="still">
+<!-- floor and toolbox -->
+<path fill="#e9c9a0" opacity=".35" d="M28 126h143v3H28z"/>
+<path fill="#442b29" d="M24 111h24v15H24zM30 107h12v4h-4v-1h-4v1h-4z"/><path fill="#e9652c" d="M26 113h20v10H26z"/><path fill="#ffce63" d="M34 115h4v5h-4z"/>
+<!-- server -->
+<path fill="#382d32" d="M125 66h39v60h-39z"/><path fill="#605056" d="M129 70h31v48h-31z"/><path fill="#211f28" d="M132 74h25v11h-25zM132 89h25v11h-25zM132 104h25v10h-25z"/>
+<path fill="#d8bba4" d="M136 78h12v2h-12zM136 93h12v2h-12zM136 108h12v2h-12z"/>
+<path fill="#ffb83f" d="M152 78h3v3h-3zM152 93h3v3h-3z"></path><path fill="#99b988" d="M152 108h3v3h-3z"/>
+<!-- cable -->
+<path d="M163 115h8v15h-55v-3" fill="none" stroke="#443039" stroke-width="3"/>
+<!-- tail -->
+<g>
+<path fill="#452c29" d="M66 93H53V81h-7v16h7v5h17z"/><path fill="#ee793a" d="M65 95H55V83h-6v12h6v5h10z"/></g>
+<!-- boots deliberately enormous -->
+<path fill="#43292a" d="M63 104h20v10h3v12H51v-12h12zM87 104h20v9h12v5h4v8H87z"/>
+<path fill="#e95b25" d="M65 107h15v10h3v5H54v-6h11zM90 107h14v9h13v4h3v2H90z"/>
+<path fill="#ffad45" d="M65 107h15v5H65zM90 107h14v5H90zM56 116h9v3h-9zM106 116h9v3h-9z"/>
+<path fill="#2f252b" d="M51 123h35v4H51zM87 123h36v4H87z"/><path fill="#ffc45a" d="M70 114h8v2h-8zM94 114h8v2h-8z"/>
+<!-- body -->
+<g>
+<path fill="#442b29" d="M67 76h34v7h6v25H63V85h4z"/><path fill="#ef813e" d="M69 79h29v7h5v18H67V86h2z"/>
+<path fill="#f7ba6c" d="M76 82h18v17H76z"/>
+<path fill="#575054" d="M68 89h8v8h17v-8h8v17H67z"/><path fill="#e3d0ae" d="M72 94h3v3h-3zM94 94h3v3h-3z"/>
+<!-- head and pointed ears -->
+<path fill="#442b29" d="M62 43h9v5h5v5h17v-5h6v-5h8v34h-5v7H69v-5h-7z"/>
+<path fill="#f18b46" d="M66 48h3v6h8v3h16v-3h9v-6h2v26h-5v7H72v-5h-6z"/>
+<path fill="#c85836" d="M67 51h3v8h-3zM100 51h3v8h-3z"/>
+<path fill="#ffd18a" d="M78 71h18v8H78z"/>
+<path fill="#30272c" d="M74 64h4v6h-4zM94 64h4v6h-4zM85 72h5v3h-5zM87 75h2v3h-2z"/>
+<path fill="#fff0c8" d="M75 64h1v2h-1zM95 64h1v2h-1z"/>
+<path fill="#bd5939" d="M67 72h8v2h-8zM98 72h8v2h-8zM80 57h4v5h-4zM86 57h4v5h-4z"/>
+<!-- little hard hat -->
+<path fill="#49302a" d="M70 41h6v-5h20v5h6v10H66v-5h4z"/><path fill="#ffbc42" d="M73 42h6v-4h14v4h6v5H73z"/><path fill="#ffdd7b" d="M82 38h6v9h-6z"/><path fill="#ec7930" d="M68 48h35v4H68z"/>
+<!-- left paw -->
+<path fill="#442b29" d="M63 85h8v13h-9v-4h-3v-5h4z"/><path fill="#f3a255" d="M64 87h5v8h-5z"/>
+<!-- hammer arm -->
+<g>
+<path fill="#442b29" d="M97 84h13v-7h8v14h-8v4H98z"/><path fill="#f5a45a" d="M101 86h12v-6h3v9h-8v3h-7z"/>
+<path fill="#6c3c2b" d="M113 58h5v28h-5z"/><path fill="#c39464" d="M114 59h2v22h-2z"/>
+<path fill="#302a30" d="M103 51h25v12h-25z"/><path fill="#a49a92" d="M105 53h21v7h-21z"/><path fill="#e4d9c0" d="M105 53h21v2h-21z"/>
+</g></g>
+<!-- tiny impact pixels -->
+<g fill="#ffa83e" opacity="0"><path d="M121 58h3v5h-3zM130 54h3v4h-3zM133 62h5v3h-5z"/></g>
+<!-- idle drifting pixel -->
+<path fill="#e89748" opacity=".5" d="M44 54h3v3h-3zM115 35h2v2h-2z"/>
+</g>
+</svg>
