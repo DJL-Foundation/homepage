@@ -9,4 +9,10 @@ export default tseslint.config(
   ...tseslint.configs.recommended,
   reactHooks.configs.flat["recommended-latest"],
   reactRefresh.configs.vite,
+  {
+    files: ["src/routes/**/*.tsx"],
+    rules: {
+      "react-refresh/only-export-components": "off",
+    },
+  },
 );

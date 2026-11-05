@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 144" width="768" height="576" shape-rendering="crispEdges" role="img" aria-labelledby="title desc">
 <title id="title">Bootcat working</title><desc id="desc">A determined pixel cat in enormous orange work boots repairs a server with a hammer. A seamless maintenance animation.</desc>
-<style>@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}.still{display:none}</style>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
 <defs>
 <g id="scene">
 <!-- floor and toolbox -->
