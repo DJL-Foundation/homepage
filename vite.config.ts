@@ -8,4 +8,16 @@ export default defineConfig({
   plugins: [tanstackStart(), nitro(), react(), tailwindcss()],
   resolve: { tsconfigPaths: true },
   server: { port: 3000 },
+  nitro: {
+    routeRules: {
+      "/.well-known/matrix/client": {
+        cors: true,
+        headers: { "content-type": "application/json" },
+      },
+      "/.well-known/matrix/server": {
+        cors: true,
+        headers: { "content-type": "application/json" },
+      },
+    },
+  },
 });
